@@ -10,11 +10,13 @@ public class DinosaurSupervisor {
             Dinosaur triceratops = new Dinosaur();
             Dinosaur diplodocus = new Dinosaur();
             Dinosaur stegosaurus = new Dinosaur();
+            Dinosaur little_rex = new Dinosaur();
 
             t_rex.roar();
             velociraptor.roar();
             triceratops.roar();
             diplodocus.roar();
             stegosaurus.roar();
+            little_rex.roar();
         }
 }
